@@ -101,14 +101,3 @@ if __name__ == "__main__":
     print "Size:",len(cluster)
     print "Number of Users:",len(users)
     print "Number of Groups:",len(groups)
-        
-        
-      
-    
-    
-    
-    
-    
-  
-    
-    
