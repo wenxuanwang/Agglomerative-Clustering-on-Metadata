@@ -1,0 +1,80 @@
+Iclust_1.0 - Information based clustering, Version 1.0
+
+Copyright (C) Noam Slonim, Gurinder S. Atwal, Gasper Tkacik, and William Bialek
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+1. Terms of use
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Iclust_1.0 is freeware and is distributed under the conditions of the GNU 
+General Public License version 2, which allows free distribution and
+modification but prevents the use of this code in commercial packages. 
+
+You are welcome to use the code for your research under the terms of the 
+license. However, please acknowledge its use with the following citation:
+
+	Noam Slonim, Gurinder S. Atwal, Gasper Tkacik, and William Bialek
+	"Iclust_1.0: Matlab Code for Information based clustering",
+	http://www.priceton.edu/~nslonim, 2004.
+
+If you use the code and find it useful, I would appreciate a note from you:
+
+	nslonim@Princeton.Edu
+
+
+2. Three warnings to begin with
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2.1 	This version is very preliminary. There is no guarantee 
+	whatsoever about its performance and/or its results.
+
+2.2	Better skilled Matlab programmers will easily find many places where 
+	this code can be optimized. In most cases, I preferred a "readable" 
+	code rather than an optimized one.
+
+2.3	Unfortunately, I do not have time to help users with different usage 
+	problems. Feel free to e-mail me for help, but note that I can not 
+	guarantee an answer. Bug reports accompanied by fixes, and any other 
+	comments and suggestions will be appreciated.
+
+
+3. A brief introduction
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+4. Setting the input parameters
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+6. Output format
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+7. A simple example
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+8. Datasets 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+9. Getting started
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+10. Bibliography
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To be completed.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Terms and conditions of use can be found in the file "LICENSE" included with 
+the distribution. Last updated: April 16, 2003.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
